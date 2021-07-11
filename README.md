@@ -4,7 +4,7 @@ I am Vishva Nath, I create things with code at Gojek.
 
 Graduated in Information Technology, my interests include Algorithms, Data Structure, OS, understanding cloud infrastructure, playing with command line and strong believer of Free and Open Source philosophy.
 
-Reach out to me on my personal page at [vishvanath45.github.io](https://vishvanath45.github.io).
+Reach out to me on my personal page at [vishvanath.xyz](https://vishvanath.xyz).
 
 Thanks! 
 Have a great life ahead!
